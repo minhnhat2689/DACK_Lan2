@@ -1,0 +1,7 @@
+API : https://drive.google.com/file/d/17bn160Meb9vQhXH6pGiMFz8c50WpxWHH/view?usp=share_link
+
+JMETER : https://drive.google.com/file/d/1xml_adbGyDc7jwZPc0MAJ-FmVpd7obG7/view
+
+Jira : https://dohoangloc.atlassian.net/jira/software/c/projects/N7/boards/6
+
+Link API publish : https://documenter.getpostman.com/view/25564174/2s93m1b5Uy

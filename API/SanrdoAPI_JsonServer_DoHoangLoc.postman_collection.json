@@ -1,0 +1,377 @@
+{
+	"info": {
+		"_postman_id": "f73a8dc3-6770-4d50-8d00-f520aaa4d738",
+		"name": "SanrdoAPI_JsonServer_DoHoangLoc",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25564174",
+		"_collection_link": "https://solar-spaceship-941596.postman.co/workspace/Team-Workspace~c9bc06d6-b858-4d2e-870e-5b5588be1d5c/collection/25564174-f73a8dc3-6770-4d50-8d00-f520aaa4d738?action=share&creator=25564174&source=collection_link"
+	},
+	"item": [
+		{
+			"name": "Register and Login",
+			"item": [
+				{
+					"name": "REGISTER",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test('Set accessToken into collection variable',() => {\r",
+									"    var res = pm.response.json() ;\r",
+									"    var email = res.data.email ;\r",
+									"    var password = res.data.password ;\r",
+									"    var fullname = res.data.fullname ;\r",
+									"\r",
+									"    pm.collectionVariables.set('username',fullname);\r",
+									"    pm.collectionVariables.set('email',email);\r",
+									"    pm.collectionVariables.set('password',password);\r",
+									"} )"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"gender\" : \"Nam\" ,\r\n    \"fullname\" : \"usertest7\" ,\r\n    \"date\" : \"30/01/2000\" ,\r\n    \"phone\" : \"0909090909\" ,\r\n    \"address\" : \"84 Hậu giang q6\" ,\r\n    \"email\" : \"usertest7@gmail.com\" ,\r\n    \"password\" : \"123456\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/register",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"register"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "REGISTER with exist email",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"gender\" : \"Nam\" ,\r\n    \"fullname\" : \"usertest7\" ,\r\n    \"date\" : \"30/01/2000\" ,\r\n    \"phone\" : \"0909090909\" ,\r\n    \"address\" : \"456 Phú Thọ Nghệ an\" ,\r\n    \"email\" : \"usertest7@gmail.com\" ,\r\n    \"password\" : \"123456\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/register",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"register"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "LOGIN",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test('Set accessToken into collection variable' , () => {\r",
+									"    var token = pm.response.json().data.access_token ;\r",
+									"    console.log(token);\r",
+									"    pm.collectionVariables.set('access_token' , token);\r",
+									"})"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"email\" : \"usertest1@gmail.com\",\r\n    \"password\" : \"123456\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/login",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "LOGIN with wrong email",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"email\" : \"usertest7@gmail.com\",\r\n    \"password\" : \"1234567\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/login",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "List of users",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{access_token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{url}}/auth/users",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"auth",
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Find user by email",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{access_token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{url}}/auth/users/usertest3@gmail.com",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"auth",
+								"users",
+								"usertest3@gmail.com"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Products",
+			"item": [
+				{
+					"name": "GET List of products",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test('List of books request status' , () => {\r",
+									"    pm.response.to.have.status(200);\r",
+									"});\r",
+									"\r",
+									"const response = pm.response.json() ;\r",
+									"\r",
+									"var bookIds = _.map(pm.response.json() , 'id');\r",
+									"console.log(bookIds);\r",
+									"pm.globals.set(\"bookIds\",bookIds);\r",
+									"for(let bookId of bookIds) {\r",
+									"    console.log(bookId);\r",
+									"}\r",
+									"const randomBookId = Math.floor(Math.random() * bookIds.length) ;\r",
+									"console.log(randomBookId,bookIds[randomBookId]);\r",
+									"pm.collectionVariables.set('bookId' , bookIds[randomBookId]);\r",
+									"\r",
+									"\r",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{url}}/books",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"books"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Single products",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{url}}/products/:productid",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"products",
+								":productid"
+							],
+							"variable": [
+								{
+									"key": "productid",
+									"value": "{{productid\n}}"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Add Product",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{access_token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"title\" : \"Giày sneaker 3\" ,\r\n    \"price\" : 1340000 ,\r\n    \"color\" : [\r\n        \"RED\" , \"YELLOW\"\r\n    ],\r\n    \"size\" : [\r\n        30 , 31 , 32\r\n    ],\r\n    \"image\" : [\r\n        \"1.jpg\" , \"2.jpg\"\r\n    ],\r\n    \"description\" : \"Nội dung ......\" ,\r\n    \"category\" : \"Giày\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/auth/add_product",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"auth",
+								"add_product"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "url",
+			"value": "http://localhost:3000"
+		},
+		{
+			"key": "username",
+			"value": ""
+		},
+		{
+			"key": "email",
+			"value": ""
+		},
+		{
+			"key": "password",
+			"value": ""
+		},
+		{
+			"key": "access_token",
+			"value": ""
+		},
+		{
+			"key": "productid\n",
+			"value": ""
+		},
+		{
+			"key": "orderId",
+			"value": ""
+		},
+		{
+			"key": "bookId",
+			"value": ""
+		}
+	]
+}

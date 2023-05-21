@@ -1,0 +1,116 @@
+Summary	Issue key	Issue id	Issue Type	Status	Project key	Project name	Project type	Project lead	Project lead id	Project description	Priority	Resolution	Assignee	Assignee Id	Reporter	Reporter Id	Creator	Creator Id	Created	Updated	Last Viewed	Resolved	Due date	Votes	Labels	Description	Environment	Watchers	Watchers Id	Original estimate	Remaining Estimate	Time Spent	Work Ratio	? Original Estimate	? Remaining Estimate	? Time Spent	Security Level	Inward issue link (Cloners)	Inward issue link (Cloners)	Outward issue link (Cloners)	Inward issue link (Issue split)	Outward issue link (Issue split)	Outward issue link (Issue split)	Attachment	Custom field (Actual Result)	Custom field (Actual end)	Custom field (Actual start)	Custom field (Category)	Custom field (Change reason)	Custom field (Change risk)	Custom field (Change type)	Custom field (Compass)	Custom field (Development)	Custom field (Epic Link)	Epic Link Summary	Custom field (Expected Result)	Custom field (Impact)	Custom field (Issue color)	Custom field (Locked forms)	Custom field (Môi Tr??ng)	Custom field (Open forms)	Custom field (Rank)	Custom field (Request Type)	Sprint	Custom field (Start date)	Custom field (Story Points)	Custom field (Story point estimate)	Custom field (Submitted forms)	Custom field (Target end)	Custom field (Target start)	Custom field (Team)	Custom field (Test Level)	Custom field (Test Steps)	Custom field (Testcase Result)	Custom field (Total forms)	Custom field ([CHART] Date of First Response)	Status Category
+DN10 - Google - M?t kh?u không h?p l?	N7-23	10173	Story	To Do	N7	DACK-Lan2	software	Do Loc	638d47b5de5cdaba3a6b8eab		Medium				nguyentranminhchien5768	62a9e9819ffc930068e1bae1	nguyentranminhchien5768	62a9e9819ffc930068e1bae1	21/05/2023 11:31	21/05/2023 11:33	21/05/2023 16:15			0	NewAccount	"M?t kh?u không h?p l?:
+
+!image-20230521-043405.png|width=490,height=430!"		nguyentranminhchien5768	62a9e9819ffc930068e1bae1											N7-22				21/May/23 11:33 AM;ug:10506ecd-37fe-44cb-b1c2-369d422b6a5c;image-20230521-043405.png;https://dohoangloc.atlassian.net/secure/attachment/10077/image-20230521-043405.png	hi?n th? thông báo ?ây là tr??ng b?t bu?c									N7-2	??ng Nh?p	hi?n th? thông báo ?ây là tr??ng b?t bu?c				https://accounts.google.com/o/oauth2/auth/identifier?client_id=697262044247-efhh2lrs7dvgd4buvnndupmodghcp51p.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fsandro.com.vn%2Fsociallogin%2Fsocial%2Fcallback%2F%3Fhauth.done%3DGoogle&response_type=code&scope=profile%20email&access_type=offline&service=lso&o2v=1&flowName=GeneralOAuthFlow		0|i00113:		N7 Sprint 1								Unit	"Step 1 : click icon Account.
+Step 2 : click vào ??ng nh?p with Google.
+Step 3 : click vào ""s? d?ng m?t tài kho?n khác"" (n?u có)
+Step 4 : nh?p ?úng Email/S?T
+Step 5 : click ti?p theo
+Step 6 : nh?p sai M?t kh?u
+Step 7 : click ti?p theo"	Pass			To Do
+DN9 - Google - M?t kh?u không ???c ?? tr?ng	N7-22	10172	Story	To Do	N7	DACK-Lan2	software	Do Loc	638d47b5de5cdaba3a6b8eab		Medium				nguyentranminhchien5768	62a9e9819ffc930068e1bae1	nguyentranminhchien5768	62a9e9819ffc930068e1bae1	21/05/2023 11:27	21/05/2023 11:31	21/05/2023 11:31			0	NewAccount	"M?t kh?u không ???c ?? tr?ng:
+
+!image-20230521-042934.png|width=458,height=514!"		nguyentranminhchien5768	62a9e9819ffc930068e1bae1									N7-23		N7-21				21/May/23 11:28 AM;ug:10506ecd-37fe-44cb-b1c2-369d422b6a5c;image-20230521-042934.png;https://dohoangloc.atlassian.net/secure/attachment/10075/image-20230521-042934.png	hi?n th? thông báo ?ây là tr??ng b?t bu?c									N7-2	??ng Nh?p	hi?n th? thông báo ?ây là tr??ng b?t bu?c				https://accounts.google.com/o/oauth2/auth/identifier?client_id=697262044247-efhh2lrs7dvgd4buvnndupmodghcp51p.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fsandro.com.vn%2Fsociallogin%2Fsocial%2Fcallback%2F%3Fhauth.done%3DGoogle&response_type=code&scope=profile%20email&access_type=offline&service=lso&o2v=1&flowName=GeneralOAuthFlow		0|i0010v:		N7 Sprint 1								Unit	"Step 1 : click icon Account.
+Step 2 : click vào ??ng nh?p with Google.
+Step 3 : click vào ""s? d?ng m?t tài kho?n khác"" (n?u có)
+Step 4 : nh?p ?úng Email/S?T
+Step 5 : click ti?p theo
+Step 6 : ?? tr?ng M?t kh?u
+Step 7 : click ti?p theo"	Pass			To Do
+DN8 - Google - Email/S?T không h?p l?	N7-21	10171	Story	To Do	N7	DACK-Lan2	software	Do Loc	638d47b5de5cdaba3a6b8eab		Medium				nguyentranminhchien5768	62a9e9819ffc930068e1bae1	nguyentranminhchien5768	62a9e9819ffc930068e1bae1	21/05/2023 11:23	21/05/2023 11:27	21/05/2023 16:16			0	NewAccount	"Email/S?T không h?p l?:
+
+!image-20230521-042609.png|width=487,height=430!"		nguyentranminhchien5768	62a9e9819ffc930068e1bae1									N7-22		N7-20				21/May/23 11:25 AM;ug:10506ecd-37fe-44cb-b1c2-369d422b6a5c;image-20230521-042609.png;https://dohoangloc.atlassian.net/secure/attachment/10073/image-20230521-042609.png	hi?n th? thông báo ?ây là tr??ng b?t bu?c									N7-2	??ng Nh?p	hi?n th? thông báo ?ây là tr??ng b?t bu?c				https://accounts.google.com/o/oauth2/auth/identifier?client_id=697262044247-efhh2lrs7dvgd4buvnndupmodghcp51p.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fsandro.com.vn%2Fsociallogin%2Fsocial%2Fcallback%2F%3Fhauth.done%3DGoogle&response_type=code&scope=profile%20email&access_type=offline&service=lso&o2v=1&flowName=GeneralOAuthFlow		0|i0010n:		N7 Sprint 1								Unit	"Step 1 : click icon Account.
+Step 2 : click vào ??ng nh?p with Google.
+Step 3 : click vào ""s? d?ng m?t tài kho?n khác"" (n?u có)
+Step 4 : Nh?p sai Email/S?T
+Step 5 : click ti?p theo"	Pass			To Do
+DN7 - Google - Email/S?T không ???c ?? tr?ng	N7-20	10170	Story	To Do	N7	DACK-Lan2	software	Do Loc	638d47b5de5cdaba3a6b8eab		Medium				nguyentranminhchien5768	62a9e9819ffc930068e1bae1	nguyentranminhchien5768	62a9e9819ffc930068e1bae1	21/05/2023 11:17	21/05/2023 11:23	21/05/2023 11:31			0	NewAccount	"Email/S?T b? tr?ng:
+
+!image-20230521-041851.png|width=485,height=348!"		nguyentranminhchien5768	62a9e9819ffc930068e1bae1									N7-21		N7-19				21/May/23 11:18 AM;ug:10506ecd-37fe-44cb-b1c2-369d422b6a5c;image-20230521-041851.png;https://dohoangloc.atlassian.net/secure/attachment/10071/image-20230521-041851.png	hi?n th? thông báo ?ây là tr??ng b?t bu?c									N7-2	??ng Nh?p	hi?n th? thông báo ?ây là tr??ng b?t bu?c				https://accounts.google.com/o/oauth2/auth/identifier?client_id=697262044247-efhh2lrs7dvgd4buvnndupmodghcp51p.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fsandro.com.vn%2Fsociallogin%2Fsocial%2Fcallback%2F%3Fhauth.done%3DGoogle&response_type=code&scope=profile%20email&access_type=offline&service=lso&o2v=1&flowName=GeneralOAuthFlow		0|i0010f:		N7 Sprint 1								Unit	"Step 1 : click icon Account.
+Step 2 : click vào ??ng nh?p with Google.
+Step 3 : click vào ""s? d?ng m?t tài kho?n khác"" (n?u có)
+Step 4 : Email/S?T b? tr?ng
+Step 5 : click ti?p theo"	Pass			To Do
+DN6 - Quên m?t kh?u - Email/S?T không h?p l?	N7-19	10169	Story	To Do	N7	DACK-Lan2	software	Do Loc	638d47b5de5cdaba3a6b8eab		Medium				nguyentranminhchien5768	62a9e9819ffc930068e1bae1	nguyentranminhchien5768	62a9e9819ffc930068e1bae1	21/05/2023 11:09	21/05/2023 11:17	21/05/2023 11:31			0	NewAccount	"Email/S?T không h?p l?:
+
+!image-20230521-041112.png|width=307,height=132!"		nguyentranminhchien5768	62a9e9819ffc930068e1bae1									N7-20		N7-18				21/May/23 11:10 AM;ug:10506ecd-37fe-44cb-b1c2-369d422b6a5c;image-20230521-041112.png;https://dohoangloc.atlassian.net/secure/attachment/10069/image-20230521-041112.png	hi?n th? thông báo ?ây là tr??ng b?t bu?c									N7-2	??ng Nh?p	hi?n th? thông báo ?ây là tr??ng b?t bu?c				https://sandro.com.vn/customer/account/login/referer/aHR0cHM6Ly9zYW5kcm8uY29tLnZuL2N1c3RvbWVyL2FjY291bnQvaW5kZXgv/		0|i00107:		N7 Sprint 1								Unit	"Step 1 : click icon Account.
+Step 2 : click vào ""Quên m?t kh?u"".
+Step 3 : Nh?p sai s? ?i?n tho?i
+Step 3 : click ??t l?i m?t kh?u"	Pass			To Do
+DN4 - Quên m?t kh?u - Email/S?T không ???c ?? tr?ng	N7-17	10167	Story	To Do	N7	DACK-Lan2	software	Do Loc	638d47b5de5cdaba3a6b8eab		Medium				nguyentranminhchien5768	62a9e9819ffc930068e1bae1	nguyentranminhchien5768	62a9e9819ffc930068e1bae1	21/05/2023 10:49	21/05/2023 11:06	21/05/2023 16:16			0	NewAccount	"Email/S?T không ???c ?? tr?ng : 
+
+!image-20230521-035846.png|width=299,height=109!"		nguyentranminhchien5768	62a9e9819ffc930068e1bae1									N7-18		N7-16				21/May/23 10:58 AM;ug:10506ecd-37fe-44cb-b1c2-369d422b6a5c;image-20230521-035846.png;https://dohoangloc.atlassian.net/secure/attachment/10066/image-20230521-035846.png	hi?n th? thông báo ?ây là tr??ng b?t bu?c									N7-2	??ng Nh?p	hi?n th? thông báo ?ây là tr??ng b?t bu?c				https://sandro.com.vn/customer/account/login/referer/aHR0cHM6Ly9zYW5kcm8uY29tLnZuL2N1c3RvbWVyL2FjY291bnQvaW5kZXgv/		0|i000zr:		N7 Sprint 1								Unit	"Step 1 : click icon Account.
+Step 2 : click vào ""Quên m?t kh?u"".
+Step 3 : Email/S?T ?? tr?ng
+Step 4 : click ??t l?i m?t kh?u"	Pass			To Do
+DN3 - Quên m?t kh?u - Email/S?T và Mã OTP không ???c ?? tr?ng	N7-16	10166	Story	To Do	N7	DACK-Lan2	software	Do Loc	638d47b5de5cdaba3a6b8eab		Medium				nguyentranminhchien5768	62a9e9819ffc930068e1bae1	nguyentranminhchien5768	62a9e9819ffc930068e1bae1	21/05/2023 10:42	21/05/2023 11:07	21/05/2023 10:51			0	NewAccount	"Email/S?T và Mã OTP không ???c ?? tr?ng : 
+
+!image-20230521-034858.png|width=330,height=361!"		nguyentranminhchien5768	62a9e9819ffc930068e1bae1									N7-17		N7-14				21/May/23 10:48 AM;ug:10506ecd-37fe-44cb-b1c2-369d422b6a5c;image-20230521-034858.png;https://dohoangloc.atlassian.net/secure/attachment/10063/image-20230521-034858.png	hi?n th? thông báo ?ây là tr??ng b?t bu?c									N7-2	??ng Nh?p	hi?n th? thông báo ?ây là tr??ng b?t bu?c				https://sandro.com.vn/customer/account/login/referer/aHR0cHM6Ly9zYW5kcm8uY29tLnZuL2N1c3RvbWVyL2FjY291bnQvaW5kZXgv/		0|i000zj:		N7 Sprint 1								Unit	"Step 1 : click icon Account.
+Step 2 : click vào ""Quên m?t kh?u"".
+Step 3 : Email/S?T và Mã OTP ?? tr?ng
+Step 3 : click ??t l?i m?t kh?u"	Skip			To Do
+DN2 - M?t kh?u không ???c ?? tr?ng	N7-14	10164	Story	To Do	N7	DACK-Lan2	software	Do Loc	638d47b5de5cdaba3a6b8eab		Medium				nguyentranminhchien5768	62a9e9819ffc930068e1bae1	nguyentranminhchien5768	62a9e9819ffc930068e1bae1	21/05/2023 10:25	21/05/2023 10:42	21/05/2023 10:47			0	NewAccount	"M?t kh?u không ???c ?? tr?ng : 
+
+!image-20230521-033520.png|width=355,height=71!"		nguyentranminhchien5768	62a9e9819ffc930068e1bae1									N7-15	N7-16	N7-13				21/May/23 10:34 AM;ug:10506ecd-37fe-44cb-b1c2-369d422b6a5c;image-20230521-033520.png;https://dohoangloc.atlassian.net/secure/attachment/10060/image-20230521-033520.png	hi?n th? thông báo ?ây là tr??ng b?t bu?c									N7-2	??ng Nh?p	hi?n th? thông báo ?ây là tr??ng b?t bu?c				https://sandro.com.vn/customer/account/login/referer/aHR0cHM6Ly9zYW5kcm8uY29tLnZuL2N1c3RvbWVyL2FjY291bnQvaW5kZXgv/		0|i000z3:		N7 Sprint 1								Unit	"Step 1 : click icon Account.
+Step 2 : ?? tr?ng m?t kh?u.
+Step 3 : click ??ng nh?p"	Pass			To Do
+DK10 - Xác nhân trên 16 tu?i	N7-13	10163	Story	To Do	N7	DACK-Lan2	software	Do Loc	638d47b5de5cdaba3a6b8eab		Medium				Do Loc	638d47b5de5cdaba3a6b8eab	Do Loc	638d47b5de5cdaba3a6b8eab	21/05/2023 10:13	21/05/2023 10:25	21/05/2023 10:19			0	NewAccount	"Xác nh?n trên 16 tu?i : 
+
+!image-20230521-031711.png|width=263,height=54!"		Do Loc	638d47b5de5cdaba3a6b8eab									N7-14		N7-12				21/May/23 10:17 AM;638d47b5de5cdaba3a6b8eab;image-20230521-031711.png;https://dohoangloc.atlassian.net/secure/attachment/10056/image-20230521-031711.png	hi?n th? thông báo ?ây là tr??ng b?t bu?c									N7-1	??ng Kí	hi?n th? thông báo ?ây là tr??ng b?t bu?c				https://sandro.com.vn/customer/account/create/		0|i000yv:		N7 Sprint 1								Unit	"Step 1 : click icon Account.
+Step 2 : click Create Account.
+Step 3 : click tôi xác nh?n trên 16 tu?i.
+Step 4 : click xác nh?n"	Pass			To Do
+DK9 - M?t kh?u ph?i l?n h?n 8 ký t?	N7-12	10162	Story	To Do	N7	DACK-Lan2	software	Do Loc	638d47b5de5cdaba3a6b8eab		Medium				Do Loc	638d47b5de5cdaba3a6b8eab	Do Loc	638d47b5de5cdaba3a6b8eab	21/05/2023 10:07	21/05/2023 10:13	21/05/2023 10:20			0	NewAccount	"Xác nh?n m?t kh?u ph?i l?n h?n 8 ký t? không ???c ?? tr?ng : 
+
+!image-20230521-030830.png|width=595,height=63!"		Do Loc	638d47b5de5cdaba3a6b8eab									N7-13		N7-11				21/May/23 10:08 AM;638d47b5de5cdaba3a6b8eab;image-20230521-030830.png;https://dohoangloc.atlassian.net/secure/attachment/10054/image-20230521-030830.png	hi?n th? thông báo m?t kh?u ph?i l?n h?n 8 ký t?									N7-1	??ng Kí	hi?n th? thông báo m?t kh?u ph?i l?n h?n 8 ký t?				https://sandro.com.vn/customer/account/create/		0|i000yn:		N7 Sprint 1								Unit	"Step 1 : click icon Account.
+Step 2 : click Create Account.
+Step 3 : Nh?p b?t kì vài ký t? < 8 ký t?.
+Step 4 : click xác nh?n"	Pass			To Do
+DK8 - Xác nh?n m?t kh?u không ???c ?? tr?ng	N7-11	10161	Story	To Do	N7	DACK-Lan2	software	Do Loc	638d47b5de5cdaba3a6b8eab		Medium				Do Loc	638d47b5de5cdaba3a6b8eab	Do Loc	638d47b5de5cdaba3a6b8eab	21/05/2023 10:04	21/05/2023 10:07	21/05/2023 10:20			0	NewAccount	"Xác nh?n m?t kh?u không ???c ?? tr?ng : 
+
+!image-20230521-030514.png|width=566,height=46!"		Do Loc	638d47b5de5cdaba3a6b8eab									N7-12		N7-10				21/May/23 10:05 AM;638d47b5de5cdaba3a6b8eab;image-20230521-030514.png;https://dohoangloc.atlassian.net/secure/attachment/10052/image-20230521-030514.png	hi?n th? thông báo xác nh?n m?t kh?u không ???c ?? tr?ng									N7-1	??ng Kí	hi?n th? thông báo xác nh?n m?t kh?u không ???c ?? tr?ng				https://sandro.com.vn/customer/account/create/		0|i000yf:		N7 Sprint 1								Unit	"Step 1 : click icon Account.
+Step 2 : click Create Account.
+Step 3 : xác nh?n m?t kh?u không ???c ?? tr?ng.
+Step 4 : click xác nh?n"	Pass			To Do
+DK7 - M?t kh?u không ???c ?? tr?ng	N7-10	10160	Story	To Do	N7	DACK-Lan2	software	Do Loc	638d47b5de5cdaba3a6b8eab		Medium				Do Loc	638d47b5de5cdaba3a6b8eab	Do Loc	638d47b5de5cdaba3a6b8eab	21/05/2023 9:59	21/05/2023 10:11	21/05/2023 10:18			0	NewAccount	"M?t kh?u không ???c ?? tr?ng : 
+
+!image-20230521-030049.png|width=528,height=45!"		Do Loc	638d47b5de5cdaba3a6b8eab									N7-11		N7-9				21/May/23 10:00 AM;638d47b5de5cdaba3a6b8eab;image-20230521-030049.png;https://dohoangloc.atlassian.net/secure/attachment/10050/image-20230521-030049.png	hi?n th? thông báo m?t kh?u không ???c ?? tr?ng									N7-1	??ng Kí	hi?n th? thông báo m?t kh?u không ???c ?? tr?ng				https://sandro.com.vn/customer/account/create/		0|i000y7:		N7 Sprint 1								Unit	"Step 1 : click icon Account.
+Step 2 : click Create Account.
+Step 3 : m?t kh?u ?? tr?ng.
+Step 4 : click xác nh?n"	Pass			To Do
+DK6 - ??a ch? Email không ???c ?? tr?ng	N7-9	10159	Story	To Do	N7	DACK-Lan2	software	Do Loc	638d47b5de5cdaba3a6b8eab		Medium				Do Loc	638d47b5de5cdaba3a6b8eab	Do Loc	638d47b5de5cdaba3a6b8eab	21/05/2023 9:55	21/05/2023 9:59	21/05/2023 10:11			0	NewAccount	"??a ch? Email không ???c ?? tr?ng : 
+
+!image-20230521-025702.png|width=541,height=49!"		Do Loc	638d47b5de5cdaba3a6b8eab									N7-10		N7-6				21/May/23 9:57 AM;638d47b5de5cdaba3a6b8eab;image-20230521-025702.png;https://dohoangloc.atlassian.net/secure/attachment/10048/image-20230521-025702.png	hi?n th? thông báo Email không ???c ?? tr?ng									N7-1	??ng Kí	hi?n th? thông báo Email không ???c ?? tr?ng				https://sandro.com.vn/customer/account/create/		0|i000xz:		N7 Sprint 1								Unit	"Step 1 : click icon Account.
+Step 2 : click Create Account.
+Step 3 : ??a ch? Email ?? tr?ng.
+Step 4 : click xác nh?n"	Pass			To Do
+DK5 - S? ?i?n tho?i ph?i nh?p ?? 10 s?	N7-7	10157	Story	To Do	N7	DACK-Lan2	software	Do Loc	638d47b5de5cdaba3a6b8eab		Medium				Do Loc	638d47b5de5cdaba3a6b8eab	Do Loc	638d47b5de5cdaba3a6b8eab	21/05/2023 9:52	21/05/2023 9:54	21/05/2023 9:52			0	NewAccount	"S? ?i?n tho?i ph?i nh?p ?? 10 s? : 
+
+!image-20230521-025252.png|width=576,height=48!"		Do Loc	638d47b5de5cdaba3a6b8eab												N7-5			21/May/23 9:52 AM;638d47b5de5cdaba3a6b8eab;image-20230521-025252.png;https://dohoangloc.atlassian.net/secure/attachment/10046/image-20230521-025252.png	Hi?n thông báo s? ?i?n tho?i ph?i ?úng 10 s?									N7-1	??ng Kí	Hi?n thông báo s? ?i?n tho?i ph?i ?úng 10 s?				https://sandro.com.vn/customer/account/create/		0|i000xn:		N7 Sprint 1								Unit	"Step 1 : click icon Account.
+Step 2 : click Create Account.
+Step 3 : Nh?p s? b?t kì d??i 10 s?. ( ví d? : 123456 )
+Step 4 : click xác nh?n"	Pass			To Do
+DK4 - Mã OTP không ???c ?? tr?ng	N7-6	10156	Story	To Do	N7	DACK-Lan2	software	Do Loc	638d47b5de5cdaba3a6b8eab		Medium				Do Loc	638d47b5de5cdaba3a6b8eab	Do Loc	638d47b5de5cdaba3a6b8eab	21/05/2023 9:48	21/05/2023 9:55	21/05/2023 10:11			0	NewAccount	"Mã OTP không ???c ?? tr?ng : 
+
+!image-20230521-024840.png|width=527,height=45!"		Do Loc	638d47b5de5cdaba3a6b8eab									N7-9			N7-5			21/May/23 9:48 AM;638d47b5de5cdaba3a6b8eab;image-20230521-024840.png;https://dohoangloc.atlassian.net/secure/attachment/10045/image-20230521-024840.png	hi?n th? thông báo mã OTP không ???c ?? tr?ng									N7-1	??ng Kí	hi?n th? thông báo mã OTP không ???c ?? tr?ng				https://sandro.com.vn/customer/account/create/		0|i000xr:		N7 Sprint 1								Unit	"Step 1 : click icon Account.
+Step 2 : click Create Account.
+Step 3 : Mã OTP ?? tr?ng.
+Step 4 : click xác nh?n"	Pass			To Do
+DK3 - S? ?i?n tho?i không ???c ?? tr?ng	N7-5	10155	Story	To Do	N7	DACK-Lan2	software	Do Loc	638d47b5de5cdaba3a6b8eab		Medium				Do Loc	638d47b5de5cdaba3a6b8eab	Do Loc	638d47b5de5cdaba3a6b8eab	21/05/2023 9:45	21/05/2023 9:52	21/05/2023 9:51			0	NewAccount	"S? ?i?n tho?i không ???c ?? tr?ng : 
+
+!image-20230521-024627.png|width=555,height=48!"		Do Loc	638d47b5de5cdaba3a6b8eab												N7-4	N7-6	N7-7	21/May/23 9:46 AM;638d47b5de5cdaba3a6b8eab;image-20230521-024627.png;https://dohoangloc.atlassian.net/secure/attachment/10044/image-20230521-024627.png	Hi?n thông báo s? ?i?n tho?i ko ???c ?? tr?ng									N7-1	??ng Kí	Hi?n thông báo s? ?i?n tho?i ko ???c ?? tr?ng				https://sandro.com.vn/customer/account/create/		0|i000xj:		N7 Sprint 1								Unit	"Step 1 : click icon Account.
+Step 2 : click Create Account.
+Step 3 : s? ?i?n tho?i ?? tr?ng.
+Step 4 : click xác nh?n"	Pass			To Do
+DK2 - Ngày tháng n?m sinh không ???c ?? tr?ng	N7-4	10154	Story	To Do	N7	DACK-Lan2	software	Do Loc	638d47b5de5cdaba3a6b8eab		Medium				Do Loc	638d47b5de5cdaba3a6b8eab	Do Loc	638d47b5de5cdaba3a6b8eab	21/05/2023 9:41	21/05/2023 9:45	21/05/2023 10:11			0	NewAccount	"Ngày tháng n?m sinh không ???c ?? tr?ng : 
+
+!image-20230521-024233.png|width=549,height=61!"		Do Loc	638d47b5de5cdaba3a6b8eab												N7-3	N7-5		21/May/23 9:42 AM;638d47b5de5cdaba3a6b8eab;image-20230521-024233.png;https://dohoangloc.atlassian.net/secure/attachment/10043/image-20230521-024233.png	Hi?n thông báo ngày tháng n?m sinh không ???c ?? tr?ng									N7-1	??ng Kí	Hi?n thông báo ngày tháng n?m sinh không ???c ?? tr?ng				https://sandro.com.vn/customer/account/create/		0|i000xb:		N7 Sprint 1								Unit	"Step 1 : click icon Account.
+Step 2 : click Create Account.
+Step 3 : ngày tháng n?m sinh ?? tr?ng.
+Step 4 : click xác nh?n"	Pass			To Do
+DK1 - H? tên không ???c ?? tr?ng	N7-3	10153	Story	To Do	N7	DACK-Lan2	software	Do Loc	638d47b5de5cdaba3a6b8eab		Medium				Do Loc	638d47b5de5cdaba3a6b8eab	Do Loc	638d47b5de5cdaba3a6b8eab	21/05/2023 9:33	21/05/2023 9:55	21/05/2023 9:54			0	NewAccount	"H? tên ko ???c ?? tr?ng :
+
+!image-20230521-023405.png|width=490,height=44!"		Do Loc	638d47b5de5cdaba3a6b8eab													N7-4		21/May/23 9:34 AM;638d47b5de5cdaba3a6b8eab;image-20230521-023405.png;https://dohoangloc.atlassian.net/secure/attachment/10042/image-20230521-023405.png	Hi?n thông báo h? tên ko ???c ?? tr?ng									N7-1	??ng Kí	Hi?n thông báo h? tên ko ???c ?? tr?ng				https://sandro.com.vn/customer/account/create/		0|i000x3:		N7 Sprint 1								Unit	"Step 1 : click icon Account.
+Step 2 : click Create Account.
+Step 3 : h? và tên ?? tr?ng.
+Step 4 : click xác nh?n"	Pass			To Do

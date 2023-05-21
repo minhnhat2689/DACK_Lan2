@@ -1,0 +1,10 @@
+Phân công nhiệm vụ thi lại lần 2 đồ án cuối kì Nhóm 7
+
+thành viên : Đỗ Hoàng Lộc và Nguyễn Trần Minh Chiến
+
+Công việc :
+
+1. Manual Testing : Chức năng đăng ký Lộc làm / đăng nhập Chiến làm.
+2. API : Lộc làm ( có quay video ) 
+3. Selenium : Chiến làm
+4. Jmeter : Chiến làm ( có quay video ) 
